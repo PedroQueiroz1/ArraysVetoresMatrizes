@@ -1,4 +1,4 @@
-package pacote2;
+package pacoteDesafiosArraysVetores;
 
 import java.util.Scanner;
 

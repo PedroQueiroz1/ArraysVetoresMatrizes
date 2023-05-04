@@ -1,13 +1,12 @@
-package pacote2;
+package pacoteDesafiosArraysVetores;
 
 import java.util.Scanner;
 
-public class Desafio4 {
-
+public class Desafio9 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("4. ");
+		System.out.println("9. ");
 		
 		System.out.println("Digite o tamanho do array.");
 		int n = sc.nextInt();
@@ -16,30 +15,27 @@ public class Desafio4 {
 		
 		System.out.println("Você vai precisar digitar " + n + " números inteiros!");
 		
-		int maiorValor=0;
-		int menorValor = 0;
+		int soma=0;
+		int count=0;
 		for(int i=0;i<n;i++) {
-			
 			System.out.println("Digite o [" + i + "] número inteiro!");
-			
 			num[i] = sc.nextInt();
-
-			if(i==0) {
-				menorValor=num[i];
-			}
-			
-			if(maiorValor<num[i]) {
-				maiorValor=num[i];
-			}
-			
-			if(menorValor>num[i]) {
-				menorValor=num[i];
+			soma+=num[i];
+			count++;
+		}
+		
+		int countAbaixoMedia = 0;
+		int media = soma/count;
+		System.out.println(media);
+		
+		for(int i = 0; i < n; i++) {
+			if(media>num[i]) {
+				countAbaixoMedia++;
 			}
 		}
-
-		System.out.println("Maior: " + maiorValor);
-		System.out.println("Menor: " + menorValor);
 		
+		System.out.println("Media: " + media);
+		System.out.println(countAbaixoMedia);
 		sc.close();
-	}
+	}	
 }

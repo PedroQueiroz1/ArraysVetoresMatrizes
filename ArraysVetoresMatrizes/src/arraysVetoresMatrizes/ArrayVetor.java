@@ -1,4 +1,4 @@
-package pacote1;
+package arraysVetoresMatrizes;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,6 +18,7 @@ public class ArrayVetor {
 			/* Array pode ser de todos os tipos de dados e objetos também*/
 			
 			/* Array */
+			@SuppressWarnings("unused")
 			double notas1[];
 			
 			/* Array sempre deve ter uma quantidade de posições definidas */
@@ -61,7 +62,8 @@ public class ArrayVetor {
 		}
 		
 		/* Outras declarações */
-		 float[] floats = new float[6];
+		 @SuppressWarnings("unused")
+		float[] floats = new float[6];
 		 int somaInteiros = 0;
 		 List<Integer> listaInteiros = new ArrayList<>();
 		 

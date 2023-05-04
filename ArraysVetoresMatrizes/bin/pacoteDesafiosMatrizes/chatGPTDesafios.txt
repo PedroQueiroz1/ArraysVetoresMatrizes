@@ -1,0 +1,19 @@
+1. Escreva um programa que receba como entrada duas matrizes de inteiros de dimensões iguais e retorne uma nova matriz que contenha a soma das duas matrizes.
+
+2. Escreva um programa que receba como entrada uma matriz de inteiros e determine se ela é simétrica em relação à diagonal principal (ou seja, se aij = aji para todos os elementos i e j).
+
+3. Escreva um programa que receba como entrada uma matriz de inteiros e determine se ela é um quadrado mágico (ou seja, a soma de todas as linhas, colunas e diagonais é igual).
+
+4. Escreva um programa que receba como entrada duas matrizes de inteiros de dimensões compatíveis e retorne uma nova matriz que contenha o produto das duas matrizes.
+
+5. Escreva um programa que receba como entrada uma matriz de inteiros e determine se ela é um triângulo superior (ou seja, todos os elementos abaixo da diagonal principal são iguais a zero).
+
+6. Escreva um programa que receba como entrada uma matriz de inteiros e determine se ela é um quadrado latino (ou seja, cada linha e cada coluna contém os números 1 até n sem repetição, onde n é a dimensão da matriz).
+
+7. Escreva um programa que receba como entrada uma matriz de inteiros e determine o elemento que ocorre com mais frequência na matriz.
+
+8. Escreva um programa que receba como entrada uma matriz de inteiros e determine se ela contém um número de sorte (ou seja, um número que ocorre na mesma posição em todas as linhas e colunas da matriz).
+
+9. Escreva um programa que receba como entrada uma matriz de inteiros e determine a média de cada linha e coluna da matriz.
+
+10. Escreva um programa que receba como entrada uma matriz de inteiros e determine se ela é um cubo mágico (ou seja, a soma de todas as linhas, colunas, diagonais e planos é igual).

@@ -1,0 +1,21 @@
+Desafios de Arrays e Vetores do chatGPT!!!
+
+1. Escreva um programa que leia 5 números inteiros e armazene-os em um array. Em seguida, exiba os números na ordem inversa em que foram digitados.
+
+2. Escreva um programa que leia 5 números inteiros e armazene-os em um array. Em seguida, exiba a média dos valores pares e a média dos valores ímpares.
+
+3. Escreva um programa que leia um número inteiro N e um array de N números inteiros. Em seguida, exiba a média dos valores do array.
+
+4. Escreva um programa que leia um número inteiro N e um array de N números inteiros. Em seguida, exiba o maior e o menor valor do array.
+
+5. Escreva um programa que leia um número inteiro N e dois arrays de N números inteiros cada um. Em seguida, calcule a soma dos elementos correspondentes dos dois arrays e armazene em um terceiro array. Exiba o terceiro array.
+
+6. Escreva um programa que leia um número inteiro N e um array de N números inteiros. Em seguida, exiba a soma dos valores pares do array.
+
+7. Escreva um programa que leia um número inteiro N e um array de N números inteiros. Em seguida, exiba a quantidade de valores negativos do array.
+
+8. Escreva um programa que leia um número inteiro N e um array de N números inteiros. Em seguida, exiba a quantidade de valores que estão acima da média dos valores do array.
+
+9. Escreva um programa que leia um número inteiro N e um array de N números inteiros. Em seguida, exiba a quantidade de valores que estão abaixo da média dos valores do array.
+
+10. Escreva um programa que leia um número inteiro N e um array de N números inteiros. Em seguida, exiba os valores do array em ordem crescente.

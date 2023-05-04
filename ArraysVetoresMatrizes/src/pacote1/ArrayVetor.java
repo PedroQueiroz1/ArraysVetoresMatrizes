@@ -1,5 +1,7 @@
 package pacote1;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class ArrayVetor {
@@ -32,7 +34,7 @@ public class ArrayVetor {
 				System.out.println(notas2[pos]);
 			}
 			
-		} catch (NumberFormatException e) {
+	} catch (NumberFormatException e) {
 			e.printStackTrace();
 		}
 	
@@ -49,5 +51,31 @@ public class ArrayVetor {
 		valores1[2] = "Curso Java";
 		valores1[3] = "contato@outlook.com";
 		
+		/* Atribuindo valor para cada posição do array */
+		for (int pos = 0; pos < valores2.length; pos++) {
+			System.out.println("Dê um valor para a posição " + valores2[pos]);		}
+		
+		/* Imprimindo os valores */
+		for (int pos = 0; pos <valores1.length; pos++) {
+			System.out.println(valores1[pos]);
+		}
+		
+		/* Outras declarações */
+		 float[] floats = new float[6];
+		 int somaInteiros = 0;
+		 List<Integer> listaInteiros = new ArrayList<>();
+		 
+		 // adiciona 1, 2, 3 na lista de inteiros
+		 listaInteiros.add(1);
+		 listaInteiros.add(2);
+		 listaInteiros.add(3);
+
+		 for(Integer inteiro : listaInteiros) {
+		     somaInteiros += inteiro;
+		 }
+		 
+		 System.out.println("Soma - " + somaInteiros);
+		 System.out.println("Tamanho lista - " + listaInteiros.size());
+		 
 	}
 }

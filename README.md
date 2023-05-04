@@ -19,7 +19,7 @@
  Projeto criado para revisar arrays, vetores e matrizes em Java.
  
 <br>Também adicionei 10 desafios que pedi que o chatGPT sugerisse pra mim, de arrays e vetores.
-<br>Vou pedir mais 10 desafios ao chatGPT só que somente de matrizes.
+<br>E também mais 10 desafios somente de matrizes.
 
 
 ## Ferramentas utilizadas

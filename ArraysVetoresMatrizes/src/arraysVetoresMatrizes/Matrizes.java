@@ -16,5 +16,6 @@ public class Matrizes {
 				System.out.println(notas[i][j]);
 			}
 		}
+
 	}
 }

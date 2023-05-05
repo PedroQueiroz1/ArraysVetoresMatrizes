@@ -1,12 +1,27 @@
 package arraysVetoresMatrizes;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
 public class ArrayVetor {
 
 	public static void main(String[] args) {
+		
+		
+		/*
+		 * BÔNUS
+		 */
+		String texto = "Pedro, Esther, Bruce, Lala";
+		
+		String[] valoresArray = texto.split(",");
+		
+		List<String> list = Arrays.asList(valoresArray);
+		
+		for(String valorString : list) {
+			System.out.println(valorString);
+		}
 		
 		/* ---- PRIMEIRA AULA ---- */
 		try (Scanner sc = new Scanner(System.in)) {

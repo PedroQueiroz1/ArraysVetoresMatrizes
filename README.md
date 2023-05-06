@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/PedroQueiroz1/ArraysVetoresMatrizes?style=plastic)
 
 <p align="center">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 ### Tópicos 
@@ -19,7 +19,7 @@
  Projeto criado para revisar arrays, vetores e matrizes em Java.
  
 <br>Também adicionei 10 desafios que pedi que o chatGPT sugerisse pra mim, de arrays e vetores.
-<br>E também mais 10 desafios somente de matrizes.
+<br>E também mais 10 desafios somente de matrizes. (Falta fazer alguns exercícios de matrizes)
 
 
 ## Ferramentas utilizadas
